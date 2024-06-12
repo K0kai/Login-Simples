@@ -25,5 +25,5 @@ This project is a simple login system written in Java, with data storage capabil
 
 ## Notes
 1. **Some parts of the program like registering and modifying an user allow you to cancel at any time by typing "exit" when it prompts you to input user information**
-2. **This program will already come with two users, one admin user and one normal user. You can see their credentials in the .json file in the src folder.
+2. **This program will already come with two users, one admin user and one normal user. You can see their credentials in the .json file in the src folder.**
 3. **The source project is in the Source folder. There, you can see and modify the code to your liking and, if you feel the need, improve it.**
