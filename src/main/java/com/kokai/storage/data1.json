@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "u_5Jf-RzV-6yu_20720",
+      "age": "01/10/2000",
+      "name": "cocacola",
+      "email": "aaaaaaaaaaaaaaa@gmail.com",
+      "password": "12345",
+      "creationDate": "11/06/2024",
+      "updateDate": "11/06/2024"
+    }
+  ],
+  "admin": [
+    {
+      "permissionLevel": 2,
+      "id": "a_7sp-xgA-KLu_185344",
+      "age": "09/01/2000",
+      "name": "kokai",
+      "email": "kokaiteste@hotmail.com",
+      "password": "123root",
+      "creationDate": "11/06/2024",
+      "updateDate": "11/06/2024"
+    }
+  ]
+}
